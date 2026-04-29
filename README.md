@@ -11,7 +11,7 @@ Acesse os arquivos do projeto nessa pasta:[Python Power Up](https://github.com/l
 **Dia 2 — Projeto de Análise de Dados**
 
 Principais resultados: Análise de cancelamento de clientes com gráficos e dashboards em Python para identificar as principais causas de cancelamento e possíveis ações de melhoria que reduziram a taxa de 56% para 18%.
-Acesse os arquivos do projeto nessa pasta:[Python Insigths](https://github.com/lorena-naraujo/jornada_python2026/tree/main/PYTHON%20INSIGTHS).
+Acesse os arquivos do projeto nessa pasta:[Python Insigths](https://github.com/lorena-naraujo/jornada_python_2026_arquivos/tree/main/jornada_python2026-main/PYTHON%20INSIGTHS).
 
 **Dia 3 — Projeto de Inteligência Artificial**
 
